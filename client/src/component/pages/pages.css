@@ -1,0 +1,47 @@
+.pages{
+    width: 25px;
+}
+
+.number{
+    width: 15px;
+}
+
+.page-container{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.back{
+    color: white;
+    cursor: pointer;
+}
+
+.next{
+    color: white;
+    cursor: pointer;
+}
+
+.start {
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.end{
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.loading{
+    color: white;
+    font-family:'Bebas Neue', cursive;
+    font-size: 60px;
+    display: flex;
+    margin-left: 36%;
+}
+
+.gif-loading{
+  margin-top: -65px;
+  margin-left: 55px;
+}

@@ -1,0 +1,35 @@
+.container-search{
+    background-image: url('../../img/ladrillos.jpg');
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.input-search{
+    width: 310px;
+    margin-left: 23%;
+}
+
+.Logo {
+    display: inline-flex;
+    width: 10rem;
+    margin-left: -13%;
+  }  
+
+  .create {
+    display: flex;
+    margin-left: 13%;
+  }
+
+  .icon{
+    color: white;
+    cursor: pointer;
+  }
+
+  .create-nav{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 23px;
+  }

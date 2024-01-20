@@ -1,0 +1,49 @@
+.container-cards {
+  width: 319px;
+  height: 430px;
+  background: #4d4b4b3d;
+  margin: auto;
+  margin-top: auto;
+  margin-left: auto;
+  margin-left: 4%;
+  margin-top: 4%;
+  display: inline-flex;
+  backdrop-filter: blur(8px);
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+.container-cards:hover{
+  transform: scale(1.1);
+}
+
+.cards-name {
+  color:  #fff;
+}
+
+.name-card {
+  color: #fff;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 29px;
+  margin-top: 25px;
+}
+
+.card-img{
+width: 316px;
+height: 229px;
+filter: brightness(80%);
+}
+
+.card-img:hover{
+filter: brightness(100%);
+}
+
+.img-cards {
+  color: black;
+}
+
+.card-genre{
+font-family: 'Bebas Neue', cursive;
+font-size: 18px;
+
+}
