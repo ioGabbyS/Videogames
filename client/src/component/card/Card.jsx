@@ -1,5 +1,6 @@
 import React from 'react';
 import './card.css';
+//import './movicard.css'
 
 export default function Card({ name, image, genres, rating }) {
     return (
@@ -10,6 +11,8 @@ export default function Card({ name, image, genres, rating }) {
             <h5 className="card-genre">{genres}</h5>
             <p>{rating}⭐</p>
             </div>
+        
         </div>
     );
+    
 }
